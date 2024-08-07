@@ -1,6 +1,6 @@
 # Objective
 
-Getting familiar with classification problems, basic data processing and modeling techniques such as feature scaling, dimensionality reduction, Random Forest, K-fold cross-validation, data balancing, evaluating model performance, and MLFlow logging.
+Getting familiar with classification problems, basic data processing and modeling techniques such as feature scaling, dimensionality reduction, Random Forest, K-fold cross-validation, data balancing, and evaluating model performance.
 
 # Steps
 
